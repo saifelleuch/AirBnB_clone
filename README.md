@@ -112,3 +112,9 @@ EOF  help  quit
 (hbnb) quit
 $
 ```
+
+
+
+### Authors
+Majd Mednini - [github.com/threadsv1](https://github.com/threadsv1) <br>
+Saif Eddine Elleuch - [https://github.com/saifelleuch](https://github.com/saifelleuch)

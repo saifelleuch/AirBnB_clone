@@ -29,10 +29,11 @@ Do you remember the Shell? It's exactly the same but limited to a specific use-c
 
 ## Resources
 **Read or watch**:
-* [cmd module](https://intranet.hbtn.io/rltoken/Fx9HXIjmGzbmET4ylYg2Rw "cmd module")
-* [packages](https://intranet.hbtn.io/rltoken/jKl9WFpKA-fPt7_guv9_3Q "packages")
-* [uuid module](https://intranet.hbtn.io/rltoken/eaQ6aELbdqb0WmPddhD00g "uuid module")
-* [datetime](https://intranet.hbtn.io/rltoken/_ySDcgtfrwLkTyQzYHTH0Q "datetime")
-* [unittest module](https://intranet.hbtn.io/rltoken/QX7d4D__xhOJIGIWZBp39g "unittest module")
-* [args/kwargs](https://intranet.hbtn.io/rltoken/jQd3P_uSO0FeU6jlN-z5mg "args/kwargs")
+* [Python abstract classes](https://blog.teclado.com/python-abc-abstract-base-classes/ "Python abstract classes")
+* [cmd module](https://docs.python.org/3.4/library/cmd.html "cmd module")
+* [Packages concept page]
+* [uuid module](https://docs.python.org/3.4/library/uuid.html "uuid module")
+* [datetime](https://docs.python.org/3.4/library/datetime.html "datetime")
+* [unittest module](https://docs.python.org/3.4/library/unittest.html#module-unittest "unittest module")
+* [args/kwargs](https://yasoob.me/2013/08/04/args-and-kwargs-in-python-explained/ "args/kwargs")
 * [Python test cheatsheet](https://intranet.hbtn.io/rltoken/WPlydsqB0PG0uVcixemv9A "Python test cheatsheet")

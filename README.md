@@ -87,3 +87,27 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 * All your classes should have a documentation (`python3 -c 'print(__import__("my_module").MyClass.__doc__)'`)
 * All your functions (inside and outside a class) should have a documentation (`python3 -c 'print(__import__("my_module").my_function.__doc__)'` and `python3 -c 'print(__import__("my_module").MyClass.my_function.__doc__)'`)
 * We strongly encourage you to work together on test cases, so that you don't miss any edge case
+
+
+## Command interpreter 
+# How to start it :
+In order to start the console, you must use the following command: ./console.py
+
+# How to use it :
+- manage (create, update, destroy, etc) objects via a console / command interprete
+- store and persist objects to a file (JSON file)
+- Commands: create, show, destroy, all (shows all), update, help, quit
+### Example :
+```
+$ ./console.py
+(hbnb) help
+
+Documented commands (type help <topic>):
+========================================
+EOF  help  quit
+
+(hbnb) 
+(hbnb) 
+(hbnb) quit
+$
+```

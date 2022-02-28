@@ -3,7 +3,7 @@ For this project, students are expected to look at these concepts:
 * [Python packages](https://intranet.hbtn.io/concepts/66)
 * [AirBnB clone](https://intranet.hbtn.io/concepts/74)
 <p align="center" width="100%">
-![](https://i.ibb.co/Ybfj2hH/AirBnB.png)
+<img width="33%" src="https://i.ibb.co/Ybfj2hH/AirBnB.png">
 </p>
 ## Background Context
 ### Welcome to the AirBnB clone project!

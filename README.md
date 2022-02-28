@@ -5,6 +5,7 @@ For this project, students are expected to look at these concepts:
 <p align="center" width="100%">
 <img width="33%" src="https://i.ibb.co/Ybfj2hH/AirBnB.png">
 </p>
+
 ## Background Context
 ### Welcome to the AirBnB clone project!
 Before starting, please read the AirBnB concept page.
